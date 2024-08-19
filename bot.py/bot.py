@@ -3,7 +3,7 @@ import time
 
 
 while True:
-    w=input("w:")
+    w=input("enter your messege:")
     if w == "end":
         break
     time.sleep(5)
